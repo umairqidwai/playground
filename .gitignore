@@ -1,0 +1,10 @@
+# Folders ignore karne ke liye
+node_modules/
+dist/
+build/
+
+# Specific files ignore karne ke liye
+.env
+secret-keys.json
+
+*.log.DS_Store
