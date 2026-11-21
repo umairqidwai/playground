@@ -7,4 +7,6 @@ build/
 .env
 secret-keys.json
 
-*.log.DS_Store
+*.log
+
+.DS_Store
